@@ -2,7 +2,7 @@
 # Binary Search python 
 mencari data dengan tekhnik Binary search.
 # Linear search python 
-mencari data dengan tekhnik Linear (belum ada code)
+mencari data dengan tekhnik Linear.
 # Buble Sort
 Tekhnik algoritma sorting di python
 # Single Linked List=
