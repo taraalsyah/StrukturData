@@ -1,4 +1,4 @@
-# StrukturData
+# StrukturData =
 # Binary Search python 
 mencari data dengan tekhnik Binary search.
 # Linear search python 
