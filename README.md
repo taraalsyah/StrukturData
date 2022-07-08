@@ -3,3 +3,5 @@
 mencari data dengan tekhnik Binary search.
 # Linear search python 
 mencari data dengan tekhnik Linear (belum ada code)
+# Buble Sort
+Tekhnik algoritma sorting di python
