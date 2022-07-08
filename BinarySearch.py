@@ -5,7 +5,7 @@ def BinarySearch(data,value):
     temp = True
     while low <= high and temp:  # Pengulangan jika kondisi low kurang sama dengan high dan temp sama dengan True
         mid = low + high  # Inisialisasi panjang data 
-        mid = mid // 2  # Setengah dari total panjang data atau inisialisasi pointer midle
+        mid = mid // 2  # Setengah dari total panjang data antara low dan high atau inisialisasi pointer midle
         if value == data[mid]: 
             # JIka value yg di cari berada di pointer midle, maka print.
             print(f"Nilai {value} Berada Pada Index {mid}")
