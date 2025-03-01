@@ -12,5 +12,5 @@ def LinearSearch(data,value):
             start += 1
 
 database = [23,21,2,1,5,9,34,56]
-print(f'Juml4h index12 data= {len(database) -1 }')
+print(f'Juml4h4 index12 data= {len(database) -1 }')
 LinearSearch(database,56)
